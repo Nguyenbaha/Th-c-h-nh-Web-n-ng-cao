@@ -1,0 +1,20 @@
+E:\THLTWNC\Bai15\Bai15\bin\Bai15.dll.config
+E:\THLTWNC\Bai15\Bai15\bin\Bai15.dll
+E:\THLTWNC\Bai15\Bai15\bin\Bai15.pdb
+E:\THLTWNC\Bai15\Bai15\obj\Debug\Bai15.csprojResolveAssemblyReference.cache
+E:\THLTWNC\Bai15\Bai15\obj\Debug\Bai15.dll
+E:\THLTWNC\Bai15\Bai15\obj\Debug\Bai15.pdb
+C:\Users\Nguyen Ba Ha\Music\THLTWNC\Bai15\Bai15\bin\Bai15.dll.config
+C:\Users\Nguyen Ba Ha\Music\THLTWNC\Bai15\Bai15\bin\Bai15.dll
+C:\Users\Nguyen Ba Ha\Music\THLTWNC\Bai15\Bai15\bin\Bai15.pdb
+C:\Users\Nguyen Ba Ha\Music\THLTWNC\Bai15\Bai15\obj\Debug\Bai15.csprojAssemblyReference.cache
+C:\Users\Nguyen Ba Ha\Music\THLTWNC\Bai15\Bai15\obj\Debug\Bai15.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Ba Ha\Music\THLTWNC\Bai15\Bai15\obj\Debug\Bai15.dll
+C:\Users\Nguyen Ba Ha\Music\THLTWNC\Bai15\Bai15\obj\Debug\Bai15.pdb
+D:\WEB\BTTH_WEB_NC\Tuan 2\Bai15\Bai15\bin\Bai15.dll.config
+D:\WEB\BTTH_WEB_NC\Tuan 2\Bai15\Bai15\bin\Bai15.dll
+D:\WEB\BTTH_WEB_NC\Tuan 2\Bai15\Bai15\bin\Bai15.pdb
+D:\WEB\BTTH_WEB_NC\Tuan 2\Bai15\Bai15\obj\Debug\Bai15.csprojAssemblyReference.cache
+D:\WEB\BTTH_WEB_NC\Tuan 2\Bai15\Bai15\obj\Debug\Bai15.csproj.CoreCompileInputs.cache
+D:\WEB\BTTH_WEB_NC\Tuan 2\Bai15\Bai15\obj\Debug\Bai15.dll
+D:\WEB\BTTH_WEB_NC\Tuan 2\Bai15\Bai15\obj\Debug\Bai15.pdb

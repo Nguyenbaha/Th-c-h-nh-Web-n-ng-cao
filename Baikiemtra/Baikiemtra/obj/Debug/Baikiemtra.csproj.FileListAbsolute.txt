@@ -1,0 +1,6 @@
+E:\THLTWNC\Baikiemtra\Baikiemtra\bin\Baikiemtra.dll.config
+E:\THLTWNC\Baikiemtra\Baikiemtra\bin\Baikiemtra.dll
+E:\THLTWNC\Baikiemtra\Baikiemtra\bin\Baikiemtra.pdb
+E:\THLTWNC\Baikiemtra\Baikiemtra\obj\Debug\Baikiemtra.csprojResolveAssemblyReference.cache
+E:\THLTWNC\Baikiemtra\Baikiemtra\obj\Debug\Baikiemtra.dll
+E:\THLTWNC\Baikiemtra\Baikiemtra\obj\Debug\Baikiemtra.pdb

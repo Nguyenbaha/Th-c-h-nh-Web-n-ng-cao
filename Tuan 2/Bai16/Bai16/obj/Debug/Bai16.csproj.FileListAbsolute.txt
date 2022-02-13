@@ -1,0 +1,20 @@
+E:\THLTWNC\Bai16\Bai16\bin\Bai16.dll.config
+E:\THLTWNC\Bai16\Bai16\bin\Bai16.dll
+E:\THLTWNC\Bai16\Bai16\bin\Bai16.pdb
+E:\THLTWNC\Bai16\Bai16\obj\Debug\Bai16.csprojResolveAssemblyReference.cache
+E:\THLTWNC\Bai16\Bai16\obj\Debug\Bai16.dll
+E:\THLTWNC\Bai16\Bai16\obj\Debug\Bai16.pdb
+C:\Users\Nguyen Ba Ha\Music\THLTWNC\Bai16\Bai16\bin\Bai16.dll.config
+C:\Users\Nguyen Ba Ha\Music\THLTWNC\Bai16\Bai16\bin\Bai16.dll
+C:\Users\Nguyen Ba Ha\Music\THLTWNC\Bai16\Bai16\bin\Bai16.pdb
+C:\Users\Nguyen Ba Ha\Music\THLTWNC\Bai16\Bai16\obj\Debug\Bai16.csprojAssemblyReference.cache
+C:\Users\Nguyen Ba Ha\Music\THLTWNC\Bai16\Bai16\obj\Debug\Bai16.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Ba Ha\Music\THLTWNC\Bai16\Bai16\obj\Debug\Bai16.dll
+C:\Users\Nguyen Ba Ha\Music\THLTWNC\Bai16\Bai16\obj\Debug\Bai16.pdb
+D:\WEB\BTTH_WEB_NC\Tuan 2\Bai16\Bai16\bin\Bai16.dll.config
+D:\WEB\BTTH_WEB_NC\Tuan 2\Bai16\Bai16\bin\Bai16.dll
+D:\WEB\BTTH_WEB_NC\Tuan 2\Bai16\Bai16\bin\Bai16.pdb
+D:\WEB\BTTH_WEB_NC\Tuan 2\Bai16\Bai16\obj\Debug\Bai16.csprojAssemblyReference.cache
+D:\WEB\BTTH_WEB_NC\Tuan 2\Bai16\Bai16\obj\Debug\Bai16.csproj.CoreCompileInputs.cache
+D:\WEB\BTTH_WEB_NC\Tuan 2\Bai16\Bai16\obj\Debug\Bai16.dll
+D:\WEB\BTTH_WEB_NC\Tuan 2\Bai16\Bai16\obj\Debug\Bai16.pdb

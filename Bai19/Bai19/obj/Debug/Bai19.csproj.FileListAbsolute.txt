@@ -1,0 +1,13 @@
+E:\THLTWNC\Bai19\Bai19\bin\Bai19.dll.config
+E:\THLTWNC\Bai19\Bai19\bin\Bai19.dll
+E:\THLTWNC\Bai19\Bai19\bin\Bai19.pdb
+E:\THLTWNC\Bai19\Bai19\obj\Debug\Bai19.csprojResolveAssemblyReference.cache
+E:\THLTWNC\Bai19\Bai19\obj\Debug\Bai19.dll
+E:\THLTWNC\Bai19\Bai19\obj\Debug\Bai19.pdb
+C:\Users\Nguyen Ba Ha\Music\THLTWNC\Bai19\Bai19\bin\Bai19.dll.config
+C:\Users\Nguyen Ba Ha\Music\THLTWNC\Bai19\Bai19\bin\Bai19.dll
+C:\Users\Nguyen Ba Ha\Music\THLTWNC\Bai19\Bai19\bin\Bai19.pdb
+C:\Users\Nguyen Ba Ha\Music\THLTWNC\Bai19\Bai19\obj\Debug\Bai19.csprojAssemblyReference.cache
+C:\Users\Nguyen Ba Ha\Music\THLTWNC\Bai19\Bai19\obj\Debug\Bai19.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Ba Ha\Music\THLTWNC\Bai19\Bai19\obj\Debug\Bai19.dll
+C:\Users\Nguyen Ba Ha\Music\THLTWNC\Bai19\Bai19\obj\Debug\Bai19.pdb

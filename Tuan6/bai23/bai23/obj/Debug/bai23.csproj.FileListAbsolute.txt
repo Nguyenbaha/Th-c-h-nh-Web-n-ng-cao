@@ -1,0 +1,24 @@
+D:\ltwnc\thuchanh\bai23\bai23\bin\bai23.dll.config
+D:\ltwnc\thuchanh\bai23\bai23\bin\bai23.dll
+D:\ltwnc\thuchanh\bai23\bai23\bin\bai23.pdb
+D:\ltwnc\thuchanh\bai23\bai23\obj\Debug\bai23.dll
+D:\ltwnc\thuchanh\bai23\bai23\obj\Debug\bai23.pdb
+E:\BTLC#\bai23\bai23\bin\bai23.dll.config
+E:\BTLC#\bai23\bai23\bin\bai23.dll
+E:\BTLC#\bai23\bai23\bin\bai23.pdb
+E:\BTLC#\bai23\bai23\obj\Debug\bai23.csprojResolveAssemblyReference.cache
+E:\BTLC#\bai23\bai23\obj\Debug\bai23.dll
+E:\BTLC#\bai23\bai23\obj\Debug\bai23.pdb
+E:\THLTWNC\Tuan6\bai23\bai23\bin\bai23.dll.config
+E:\THLTWNC\Tuan6\bai23\bai23\bin\bai23.dll
+E:\THLTWNC\Tuan6\bai23\bai23\bin\bai23.pdb
+E:\THLTWNC\Tuan6\bai23\bai23\obj\Debug\bai23.csprojResolveAssemblyReference.cache
+E:\THLTWNC\Tuan6\bai23\bai23\obj\Debug\bai23.dll
+E:\THLTWNC\Tuan6\bai23\bai23\obj\Debug\bai23.pdb
+C:\Users\Nguyen Ba Ha\Music\THLTWNC\Tuan6\bai23\bai23\bin\bai23.dll.config
+C:\Users\Nguyen Ba Ha\Music\THLTWNC\Tuan6\bai23\bai23\bin\bai23.dll
+C:\Users\Nguyen Ba Ha\Music\THLTWNC\Tuan6\bai23\bai23\bin\bai23.pdb
+C:\Users\Nguyen Ba Ha\Music\THLTWNC\Tuan6\bai23\bai23\obj\Debug\bai23.csprojAssemblyReference.cache
+C:\Users\Nguyen Ba Ha\Music\THLTWNC\Tuan6\bai23\bai23\obj\Debug\bai23.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Ba Ha\Music\THLTWNC\Tuan6\bai23\bai23\obj\Debug\bai23.dll
+C:\Users\Nguyen Ba Ha\Music\THLTWNC\Tuan6\bai23\bai23\obj\Debug\bai23.pdb

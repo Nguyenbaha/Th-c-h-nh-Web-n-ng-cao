@@ -1,0 +1,19 @@
+﻿
+.sanpham {
+    width: 300px;
+    text-align: center;
+    float: left;
+}
+.anhsanpham {
+    width: 100%;
+    height: 150px;
+    object-fit: contain;
+}
+.giaban {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+p {
+    margin: 3px;
+}

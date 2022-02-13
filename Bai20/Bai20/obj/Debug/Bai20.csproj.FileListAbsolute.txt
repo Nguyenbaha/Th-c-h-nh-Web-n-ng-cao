@@ -1,0 +1,13 @@
+E:\THLTWNC\Bai20\Bai20\bin\Bai20.dll.config
+E:\THLTWNC\Bai20\Bai20\bin\Bai20.dll
+E:\THLTWNC\Bai20\Bai20\bin\Bai20.pdb
+E:\THLTWNC\Bai20\Bai20\obj\Debug\Bai20.csprojResolveAssemblyReference.cache
+E:\THLTWNC\Bai20\Bai20\obj\Debug\Bai20.dll
+E:\THLTWNC\Bai20\Bai20\obj\Debug\Bai20.pdb
+C:\Users\Nguyen Ba Ha\Music\THLTWNC\Bai20\Bai20\bin\Bai20.dll.config
+C:\Users\Nguyen Ba Ha\Music\THLTWNC\Bai20\Bai20\bin\Bai20.dll
+C:\Users\Nguyen Ba Ha\Music\THLTWNC\Bai20\Bai20\bin\Bai20.pdb
+C:\Users\Nguyen Ba Ha\Music\THLTWNC\Bai20\Bai20\obj\Debug\Bai20.csprojAssemblyReference.cache
+C:\Users\Nguyen Ba Ha\Music\THLTWNC\Bai20\Bai20\obj\Debug\Bai20.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Ba Ha\Music\THLTWNC\Bai20\Bai20\obj\Debug\Bai20.dll
+C:\Users\Nguyen Ba Ha\Music\THLTWNC\Bai20\Bai20\obj\Debug\Bai20.pdb

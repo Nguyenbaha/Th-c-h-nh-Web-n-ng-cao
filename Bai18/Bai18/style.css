@@ -1,0 +1,61 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+}
+
+#form1 {
+    position: fixed;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 5px solid #000000;
+}
+
+#form1 h1 {
+    text-align: center;
+    background: #0bebcd;
+    color: #fff;
+    padding: 0.25em 0;
+}
+
+#form1 .row label {
+    padding: 0 15px;
+}
+
+#form1 .content {
+    margin: 0 1.5em;
+}
+
+#form1 .row {
+    margin: 1em 0;
+    background-color: #808080;
+}
+
+#form1 .row input {
+    padding: 10px;
+    background-color: #e4dfdf;
+    border: thin solid #e4dfdf;
+    outline: none;
+}
+
+#form1 .control button {
+    width: 100%;
+    padding: 10px;
+    margin: 0 0 2em;
+    background: #0bebcd;
+    color: #fff;
+    border: none;
+    outline: none;
+}
+
+#lblNotification {
+    color : red;
+}
+
+#info {
+    display: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

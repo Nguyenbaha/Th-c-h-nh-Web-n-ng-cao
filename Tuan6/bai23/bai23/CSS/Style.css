@@ -1,0 +1,30 @@
+﻿body {
+}
+#form1{
+    margin: auto;
+   
+}
+
+.product {
+    width: 14px;
+    height: 20px;
+    border: 1px solid #99CCFF;
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+    .product img {
+        width: 20px;
+        height: 20px;
+        display: block;
+        margin: 5px auto;
+        z-index: 9999999;
+    }
+
+#ddlhang {
+    width: 140px;
+}
+
+

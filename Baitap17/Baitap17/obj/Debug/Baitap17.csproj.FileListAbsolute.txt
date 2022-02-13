@@ -1,0 +1,12 @@
+E:\THLTWNC\Baitap17\Baitap17\bin\Baitap17.dll.config
+E:\THLTWNC\Baitap17\Baitap17\bin\Baitap17.dll
+E:\THLTWNC\Baitap17\Baitap17\bin\Baitap17.pdb
+E:\THLTWNC\Baitap17\Baitap17\obj\Debug\Baitap17.csprojResolveAssemblyReference.cache
+E:\THLTWNC\Baitap17\Baitap17\obj\Debug\Baitap17.dll
+E:\THLTWNC\Baitap17\Baitap17\obj\Debug\Baitap17.pdb
+C:\Users\Nguyen Ba Ha\Music\THLTWNC\Baitap17\Baitap17\bin\Baitap17.dll.config
+C:\Users\Nguyen Ba Ha\Music\THLTWNC\Baitap17\Baitap17\bin\Baitap17.dll
+C:\Users\Nguyen Ba Ha\Music\THLTWNC\Baitap17\Baitap17\bin\Baitap17.pdb
+C:\Users\Nguyen Ba Ha\Music\THLTWNC\Baitap17\Baitap17\obj\Debug\Baitap17.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Ba Ha\Music\THLTWNC\Baitap17\Baitap17\obj\Debug\Baitap17.dll
+C:\Users\Nguyen Ba Ha\Music\THLTWNC\Baitap17\Baitap17\obj\Debug\Baitap17.pdb
